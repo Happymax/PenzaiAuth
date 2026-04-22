@@ -11,8 +11,9 @@ PORT = 9982
 VERSION = [0x00, 0x04, 0x00]
 SERVER_METADATA = {
     "meta": {
-        "serverName": "PenzaiAuth"
+        "serverName": "<SERVER_NAME>"
     },
+    "skinDomains": [],
     "signaturePublickey": ""
 }
 INVALID_MSG = {
